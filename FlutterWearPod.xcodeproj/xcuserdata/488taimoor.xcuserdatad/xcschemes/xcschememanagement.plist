@@ -4,11 +4,6 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>FlutterVdotokWear.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
 		<key>FlutterWearPod.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -22,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>0F59515F28ACD373000DA418</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>0F59516E28ACD4C8000DA418</key>
 		<dict>
 			<key>primary</key>
